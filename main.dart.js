@@ -28049,7 +28049,7 @@ a2G:function a2G(a){this.a=a},
 On:function On(a){this.a=a},
 Bj:function Bj(a){this.a=a},
 ND:function ND(a,b){var _=this
-_.d="Create a username that you will later use(it is needed for saving the data and for the webpage to work correctly)"
+_.d="Prijava z uporabni\u0161kim imenom"
 _.e=a
 _.a=null
 _.b=b
@@ -94476,7 +94476,7 @@ break
 case 4:throw A.c("Could not launch "+a)
 case 3:return A.J(null,r)}})
 return A.K($async$qc,r)},
-N(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=t.p,h=A.b([A.aDm(j,A.i3(B.EZ,j),new A.a2A(k),j,j)],i),g=A.bp("       Explore Maribor",j,j,j,j,j,j)
+N(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=t.p,h=A.b([A.aDm(j,A.i3(B.EZ,j),new A.a2A(k),j,j)],i),g=A.bp("       Razi\u0161\u010di Maribor",j,j,j,j,j,j)
 g=A.pb(h,!0,A.dV(j,j,B.o,j,j,new A.db(j,j,j,j,j,new A.uY(B.cR,B.zE,B.dp,A.b([B.KX,B.c9],t.t_),j,j),B.aO),j,j,j,j,j,j,j),g)
 h=t.l
 s=A.bt(a,j,h).w
@@ -94518,7 +94518,7 @@ A.a2L.prototype={
 $0(){},
 $S:0}
 A.a2P.prototype={
-$1(a){var s=null,r=A.bp("Koncana proga. Na meniju si lahko izberes novo.",s,s,s,s,s,s),q=A.bp("cestitamo ti za uspesen zakljucek",s,s,s,s,s,s)
+$1(a){var s=null,r=A.bp("Kon\u010dana proga. Na meniju si lahko izbere\u0161 novo.",s,s,s,s,s,s),q=A.bp("\u010cestitamo ti za uspe\u0161en zaklju\u010dek",s,s,s,s,s,s)
 return A.aCy(A.b([A.wo(A.bp("Zapri",s,s,s,s,s,s),new A.a2O(a),s)],t.p),q,r)},
 $S:115}
 A.a2O.prototype={
@@ -94602,7 +94602,7 @@ $S:572}
 A.a2x.prototype={
 $2(a,b){var s=this,r=null,q=s.b,p=q-3
 A.eT("test: "+q+", "+b+", "+$.hP[p]+", "+A.f($.jN)+", "+A.f($.l3))
-if(b===$.hP[p])return A.v0(!1,r,r,r,!0,r,!1,A.i3(B.F0,r),r,new A.a2r(s.a,q,s.c),!1,r,r,r,r,r,A.bp("Start with the following track.",r,r,r,r,r,r),r,r)
+if(b===$.hP[p])return A.v0(!1,r,r,r,!0,r,!1,A.i3(B.F0,r),r,new A.a2r(s.a,q,s.c),!1,r,r,r,r,r,A.bp("Za\u010dni s progo.",r,r,r,r,r,r),r,r)
 return A.v0(!1,r,r,r,!0,r,!1,A.i3(B.ET,r),r,r,!1,r,r,r,r,r,A.bp($.jN[p][b],r,r,r,r,r,r),A.r9(A.b([A.eZ(r,A.i3(B.n0,r),B.a1,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.a2s(s.a,q,b),r,r,r,r,r)],t.p),B.ao,B.aF,B.bR),r)},
 $S:573}
 A.a2r.prototype={
@@ -94641,7 +94641,7 @@ A.aDK(a,A.qu(new A.aeC(),null,t.z))}q.d="Your username is incorrect. Please try 
 q.aj(new A.aeD())}return A.J(null,r)}})
 return A.K($async$zz,r)},
 N(a){var s=null
-return A.ob(A.pb(s,s,s,A.bp("Login Page",s,s,s,s,s,s)),A.jX(A.iS(A.b([A.bp(this.d,s,s,s,s,s,s),A.kI(this.e,A.kh(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Username",s,s,s,s,s,s,s,s,s,s,s,s,s),s,1,s,s),A.ul(A.bp("Login",s,s,s,s,s,s),new A.aeE(this,a))],t.p),B.ao,B.ea,B.be),s,s),s,s)}}
+return A.ob(A.pb(s,s,s,A.bp("Prijavno okno",s,s,s,s,s,s)),A.jX(A.iS(A.b([A.bp(this.d,s,s,s,s,s,s),A.kI(this.e,A.kh(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Username",s,s,s,s,s,s,s,s,s,s,s,s,s),s,1,s,s),A.ul(A.bp("Login",s,s,s,s,s,s),new A.aeE(this,a))],t.p),B.ao,B.ea,B.be),s,s),s,s)}}
 A.aeA.prototype={
 $1(a){return new A.wn(null)},
 $S:574}
